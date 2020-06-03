@@ -4,6 +4,10 @@ by Chris Klimas, Andrew Plotkin, Leon Arnott, Daithi O Crualaoich, Ingrid
 Cheung, Thomas Michael Edwards, Micah Fitch, HiEv, Juhana Leinonen, Michael Savich,
 and Ross Smith
 
+##MY MODIFICATION
+Twine story UI was not mobile responsive. I made some changes and now it loads nicely on mobile browser as well.
+
+
 ### SYNOPSIS
 
 This is a port of Twine to a browser and Electron app. See
